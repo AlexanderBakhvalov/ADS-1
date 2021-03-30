@@ -22,6 +22,4 @@ if (c)
 return c;
 else
 return 0; // если ничего не найдено
-
-
 }
